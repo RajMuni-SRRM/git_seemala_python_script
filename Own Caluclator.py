@@ -37,8 +37,3 @@ while True:
 		print('Thank you.....')
 		break
 		
-<<<<<<< HEAD
-# C:\Users\Raj Muni\Desktop\git-repos>py "Own Caluclator.py"
-         # Result: 0
-=======
->>>>>>> 4322660e3ebf83fc4faf588d1135aede564364cc
