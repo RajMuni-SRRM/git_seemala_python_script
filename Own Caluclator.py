@@ -23,18 +23,18 @@ class Ca:
 			print('enter numbers only',msg)
 c=Ca(0,'+',0)
 while True:
-	try:
-		if c.sum==0:
-			no=int(input('enter the number:'))
-			c=Ca(no,'+',0)
-		else:
-			sym=input('enter the operation:')
-			no=int(input('enter the number:'))
-			pre=c.sum
-			c=Ca(no,sym,pre)
-	except ValueError as msg:
-		print('\t Result:',c.sum)
-		prinit(msg)
-		print('Thank you.....')
-		break
+	#try:
+		#if c.sum==0:
+			#no=int(input('enter the number:'))
+			#c=Ca(no,'+',0)
+		#else:
+			#sym=input('enter the operation:')
+			#no=int(input('enter the number:'))
+			#pre=c.sum
+			#c=Ca(no,sym,pre)
+	#except ValueError as msg:
+		#print('\t Result:',c.sum)
+		#prinit(msg)
+		#print('Thank you.....')
+		#break
 		
