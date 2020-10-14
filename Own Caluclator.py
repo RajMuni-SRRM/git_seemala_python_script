@@ -39,23 +39,3 @@ while True:
 		
 # C:\Users\Raj Muni\Desktop\git-repos>py "Own Caluclator.py"
          # Result: 0
-# enter the number:10
-         # Result: 10
-# enter the operation:+
-# enter the number:20
-         # Result: 30
-# enter the operation:-
-# enter the number:30
-         # Result: 0
-# enter the number:10
-         # Result: 10
-# enter the operation:*
-# enter the number:20
-         # Result: 200
-# enter the operation:/
-# enter the number:10
-         # Result: 20.0
-# enter the operation:
-# enter the number:
-         # Result: 20.0
-# Thank you.....
