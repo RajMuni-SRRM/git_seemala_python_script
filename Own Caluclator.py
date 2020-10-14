@@ -34,6 +34,7 @@ while True:
 			c=Ca(no,sym,pre)
 	except ValueError as msg:
 		print('\t Result:',c.sum)
+		prinit(msg)
 		print('Thank you.....')
 		break
 		
