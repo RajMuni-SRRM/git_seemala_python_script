@@ -32,3 +32,12 @@ while True:
 			no=int(input('enter the number:'))
 			pre=c.sum
 			c=Ca(no,sym,pre)
+	except ValueError as msg:
+		print('\t Result:',c.sum)
+		print(msg)
+		print('Thank you.....')
+		break
+<<<<<<< HEAD
+		
+=======
+>>>>>>> sprint2
