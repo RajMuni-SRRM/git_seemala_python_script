@@ -36,8 +36,3 @@ while True:
 		print('\t Result:',c.sum)
 		print(msg)
 		print('Thank you.....')
-		break
-<<<<<<< HEAD
-		
-=======
->>>>>>> sprint2
