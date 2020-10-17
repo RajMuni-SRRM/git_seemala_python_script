@@ -36,3 +36,11 @@ while True:
 		print('\t Result:',c.sum)
 		print(msg)
 		print('Thank you.....')
+<<<<<<< HEAD
+=======
+		break
+<<<<<<< HEAD
+		
+=======
+>>>>>>> sprint2
+>>>>>>> parent of 6081b2e... some change done in own caluclator
