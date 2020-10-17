@@ -41,3 +41,9 @@ while True:
 		
 =======
 >>>>>>> sprint2
+        except ValueError as msg:
+                print('\t Result:',c.sum)
+                print(msg)
+                print('Thank you.....')
+                break
+
